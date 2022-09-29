@@ -2,9 +2,14 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.h1-home{
+  color: red;
+}
+.my-button{
+  background-color:gray;
+  color: black;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
